@@ -18,23 +18,13 @@
 
 
 
-$H\,W\,N$
-$h_1\,w_1,n_1$
-$h_2\,w_2,n_2$
-$h_3\,w_3,n_3$
-$\vdots$
 
-$h_N\,w_N\,n_N$
+
+![](img/f2.png)
 
 
 
-$1 \leq i \leq N$
-
-$0 \leq h_i \leq (H-1)$
-
-$0 \leq w_i \leq (W-1)$
-
-$1\leq n_i \leq (H\times W - N + 1)$
+![](img/f1.png)
 
 
 
